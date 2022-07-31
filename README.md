@@ -1,6 +1,6 @@
 #screenshots 
-# Home.png
-# WEB_UTILITY.png
+$Home.png
+$ WEB_UTILITY.png
 
 # nuxtweb
 
