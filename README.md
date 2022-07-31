@@ -1,3 +1,7 @@
+#screenshots 
+# Home.png
+# WEB_UTILITY.png
+
 # nuxtweb
 
 ## Build Setup
